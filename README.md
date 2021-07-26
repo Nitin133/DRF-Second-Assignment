@@ -1,4 +1,5 @@
 Django Rest Framework Assignment 2
+
 Assignment: To create a simple registration API with proper validations using Django REST Framework.
 
 Steps:
